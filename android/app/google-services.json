@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799474908487",
+    "project_id": "cropi-399723",
+    "storage_bucket": "cropi-399723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799474908487:android:5ba8b13a97aca4e8a96062",
+        "android_client_info": {
+          "package_name": "dev.brolese.cropi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkX5tze37GC90FncqG4IH-1h380iYdF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
